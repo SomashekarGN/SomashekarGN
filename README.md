@@ -39,7 +39,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Java Developer** striving 
 
 ## 🌟 Let's Connect  
 - 🔗 [LinkedIn](www.linkedin.com/in/somashekar-g-n-8a59331b0)  
-- 📫 [Email]:somashekar.xworkz@gmail.com  
+- 📫 [Email]somashekar.xworkz@gmail.com  
 
 ---
 
